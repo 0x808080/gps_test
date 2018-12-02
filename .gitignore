@@ -28,5 +28,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+
+android_export
+android_exe
+
 *.log
 *.pyc
